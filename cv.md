@@ -95,3 +95,19 @@ projects.
 address, phone, and email.
 >* The "About Us" page, which provides information about
 the company, its mission and history.
+
+
+## Skills
+* React(Redux,Router,Hooks)
+* TS
+* JS
+* CSS(SCSS,Less)
+* Html
+* Express
+* Postgres
+* MongoDB
+* MySQL
+* Bootstrap
+* MaterialUI
+* NodeJS
+* Axios
