@@ -27,10 +27,17 @@ In general, this makes me a more
 qualified and competent specialist in
 my field.
 
+### CONTACTS
 
-#### CONTACTS
+ * Telephone: +375 (25) 512- 93 - 89
+ * Portfolio - https://portfoliovadimosin.netlify.app/
+ * Email: lljytnik@gmail.com
+ * Git - https://github.com/VadimOsin
 
->Telephone: +375 (25) 512- 93 - 89
-</br>Portfolio - https://portfoliovadimosin.netlify.app/
-</br>Email: lljytnik@gmail.com
-</br>Git - https://github.com/VadimOsin
+## EDUCATION
+
+```
+Yanka Kupala University
+2019 — 2023
+Faculty: Mathematics and Computer Science
+Specialty: Information Technology Software
