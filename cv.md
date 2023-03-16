@@ -1,4 +1,4 @@
-# **[rsschool-cv](https://github.com/VadimOsin/rsschool-cv/)**
+# **[rsschool-cv](https://vadimosin.github.io/rsschool-cv/cv/)**
 # VADIM OSIN
 
 ### Front-end developer
